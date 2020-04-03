@@ -1,2 +1,2 @@
 # cfx-puppeteer
-automation framework
+automation framework for puppeteer
